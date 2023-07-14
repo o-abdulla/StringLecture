@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\StringLecture\StringLecture\bin\Debug\net6.0\StringLecture.exe
+C:\Users\osabd\source\repos\StringLecture\StringLecture\bin\Debug\net6.0\StringLecture.deps.json
+C:\Users\osabd\source\repos\StringLecture\StringLecture\bin\Debug\net6.0\StringLecture.runtimeconfig.json
+C:\Users\osabd\source\repos\StringLecture\StringLecture\bin\Debug\net6.0\StringLecture.dll
+C:\Users\osabd\source\repos\StringLecture\StringLecture\bin\Debug\net6.0\StringLecture.pdb
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.AssemblyInfo.cs
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.dll
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\refint\StringLecture.dll
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.pdb
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\StringLecture.genruntimeconfig.cache
+C:\Users\osabd\source\repos\StringLecture\StringLecture\obj\Debug\net6.0\ref\StringLecture.dll
